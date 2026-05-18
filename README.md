@@ -1,2 +1,12 @@
-# rsod-web-platform
-遥感⽬标智能检测平台
+# \# RSOD Web Platform
+
+# 
+
+# \## Day 1 - 环境搭建
+
+# 
+
+# 完成基本项目结构搭建。
+
+# 
+
